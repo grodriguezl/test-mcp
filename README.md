@@ -1,2 +1,2 @@
 # test-mcp
-Test MCP
+This is a test project for MCP stuff
